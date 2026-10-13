@@ -6,7 +6,7 @@
 
 **Faculty:**  Mathematics & IT
 
-**Student:** İbrahim Əliyev
+**Student:** Ibrahim Aliyev
 
 **Group:** KOM26
 
