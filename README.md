@@ -28,7 +28,7 @@ The project consists of three main Python scripts:
 
   * Prompts the user for weight (in kilograms) and height (in meters).
     
-  * Mass and height cannot be negative or zero!!!
+  * Weight and height cannot be negative or zero!!!
 
   * Computes BMI using the formula: 
 
