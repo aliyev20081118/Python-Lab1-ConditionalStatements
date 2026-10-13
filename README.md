@@ -28,7 +28,7 @@ The project consists of three main Python scripts:
 
   * Prompts the user for weight (in kilograms) and height (in meters).
 
-  * Computes BMI using the formula:
+  * Computes BMI using the formula: 
 
    BMI=weight/height**2
 
