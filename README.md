@@ -30,9 +30,7 @@ The project consists of three main Python scripts:
 
   * Computes BMI using the formula:
 
-    $$
    BMI=weight/height**2
-    $$
 
   * Determines the BMI category:
 
